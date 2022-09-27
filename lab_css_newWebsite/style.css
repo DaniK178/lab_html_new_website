@@ -1,0 +1,26 @@
+
+header {
+    background-color: #f6e7d5;
+    display: flex;
+    align-items: center;
+  }
+  
+  h1 {
+    width: 25%;
+  }
+  
+
+.design_pictures {
+
+        display: grid;
+        gap: 1px;
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+ header nav {
+        width: 60%;
+        display: flex;
+        justify-content: space-around;
+      }
+
+
